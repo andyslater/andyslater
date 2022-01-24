@@ -1,9 +1,7 @@
 ### Hi there 👋
 
+#### Andy Slater here
 
-**andyslater/andyslater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on UCONN Stat5125 with Professor HaiYing Wang
 - 🌱 I’m currently learning Julia and Statistics
